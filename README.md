@@ -1,1 +1,1 @@
-
+This cryptocurrency tracker is a single-page application developed using React JS for efficient component-based architecture and state management. The UI is designed with Material UI, ensuring responsiveness and consistency across devices. Data visualization is handled באמצעות Chart.js, enabling dynamic rendering of historical price trends and market analytics. The app integrates real-time API data to deliver accurate cryptocurrency pricing and performance insights.
